@@ -1,0 +1,17 @@
+{%extends 'layout.html'%}
+{% block content%}
+<form action="/recoom" method="post">
+    
+    <input type="text" style="width: 80%; height: 7vh; margin: 10vh;" id="name" name="name" required>
+    <button class="but_sub" type="submit">Search</button>
+</form>
+{% if fl %}
+    <div class="Grid_container">
+        {%for i in fl%}
+                <div style="height: minmax;">
+                <a style="color: aliceblue; " href="/similar/{{i[0]}}">{{i[1]}}</a>
+               </div>
+        {% endfor %}
+    </div>
+{% endif %}
+{%endblock%}

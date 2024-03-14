@@ -1,0 +1,25 @@
+{%extends 'layout.html'%}
+{% block content%}
+<div style="background-color: black; color: aliceblue;">
+    <div>
+        <h1>{{nm[0][0]}}</h1>
+        <div>
+            <h2>Geners</h2>
+            <a>{{nm[0][1]}}</a>
+        </div>
+        <h2>Summary</h2>
+        <a>{{nm[0][2]}}</a>
+    </div>
+
+    <div style="margin-top: 10vh;">
+        <h1> Simmilar Anime </h1>
+        <div style="display: grid;grid-template-columns: 1fr 1fr 1fr; width: 80%;">
+            {%for i in nm[1]%}
+                <div style="margin: 5vh;">
+                    <a href="/similar/{{i[0]}} " style="text-decoration: none;">{{i[1]}}</a>
+                </div>
+            {%endfor%}
+        </div>
+    </div>
+</div>
+{%endblock%}

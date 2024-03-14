@@ -1,0 +1,58 @@
+Action: Explosive battles and dynamic sequences drive action anime, captivating audiences with intense combat and heroic journeys, as seen in "Attack on Titan" and "One Punch Man."
+;
+Adventure: Epic quests, exploration, and character growth define adventure anime, delivering enthralling narratives in fantastical worlds, exemplified by "Fullmetal Alchemist" and "Hunter x Hunter."
+;
+Comedy: Laughter takes the spotlight in comedy anime, showcasing humorous situations, quirky characters, and witty dialogue, as demonstrated in "One Piece" and "Gintama."
+;
+Drama: Emotional depth and compelling narratives characterize drama anime, exploring complex relationships, personal struggles, and profound themes, as witnessed in "Your Lie in April" and "Clannad."
+;
+Fantasy: Enchanting realms, magical creatures, and mystical adventures dominate fantasy anime, captivating viewers with imaginative storytelling, as seen in "Spirited Away" and "Made in Abyss."
+;
+Horror: Chills and suspense define horror anime, featuring eerie atmospheres, supernatural elements, and thrilling plots, exemplified by "Tokyo Ghoul" and "Higurashi When They Cry."
+;
+Mystery: Puzzles, investigations, and suspenseful plots drive mystery anime, keeping audiences on the edge with unexpected twists, as showcased in "Death Note" and "Detective Conan."
+;
+Psychological: Delving into the human mind, psychological anime explores complex characters, moral dilemmas, and the intricacies of the psyche, as seen in "Paranoia Agent" and "Psycho-Pass."
+;
+Romance: Heartfelt connections and romantic tales unfold in romance anime, capturing the essence of love, relationships, and emotional depth, exemplified by "Toradora!" and "Your Name."
+;
+Sci-Fi: Futuristic worlds, advanced technology, and scientific concepts define sci-fi anime, offering thought-provoking narratives, as witnessed in "Steins;Gate" and "Cowboy Bebop."
+;
+Slice of Life: Everyday experiences take center stage in slice of life anime, providing glimpses into ordinary life and relatable stories, as portrayed in "My Youth Romantic Comedy Is Wrong, As I Expected" and "Usagi Drop."
+;
+Sports: Athletic prowess and competitive spirit drive sports anime, showcasing intense competitions and personal growth, as exemplified by "Haikyuu!!" and "Kuroko's Basketball."
+;
+Supernatural: Otherworldly elements, supernatural powers, and mystical beings shape supernatural anime, weaving captivating tales beyond the realm of the ordinary, as seen in "Death Parade" and "Blue Exorcist."
+;
+Mecha: Giant robots and futuristic warfare define mecha anime, offering thrilling battles and complex narratives, as demonstrated in "Mobile Suit Gundam" and "Code Geass."
+;
+Isekai: Characters transported to alternate worlds embark on fantastical adventures in isekai anime, exploring new realms and facing challenges, as seen in "Re:Zero" and "No Game No Life."
+;
+Shonen: Geared towards young males, shonen anime emphasizes action, camaraderie, and character growth, showcased in series like "Naruto" and "Dragon Ball."
+;
+Shojo: Tailored for young females, shojo anime focuses on romance, relationships, and emotional experiences, as seen in "Sailor Moon" and "Fruits Basket."
+;
+Seinen: Targeting adult men, seinen anime delves into mature themes, complex characters, and intricate plots, exemplified by "Berserk" and "Tokyo Ghoul."
+;
+Josei: Catering to adult women, josei anime explores realistic portrayals of relationships, career challenges, and personal growth, as seen in "Nana" and "Paradise Kiss."
+;
+Harem: Romantic entanglements and multiple love interests define harem anime, offering comedic and dramatic situations, as exemplified by "High School DxD" and "The Quintessential Quintuplets."
+;
+Reverse Harem: In reverse harem anime, a female protagonist interacts romantically with multiple male characters, exploring diverse relationships, as seen in "Ouran High School Host Club" and "Fruits Basket."
+;
+Thriller: Suspense and gripping narratives characterize thriller anime, featuring intense plots and unexpected twists, as witnessed in "Death Note" and "Monster."
+;
+Historical: Set in the past, historical anime portrays events, cultures, and societies from different eras, providing both educational and entertaining narratives, as seen in "Samurai Champloo" and "Vinland Saga."
+;
+Music: The world of music takes center stage in music anime, exploring the journeys of musicians and the power of melody, as demonstrated in "Your Lie in April" and "Nodame Cantabile.";
+Magic: Magical realms, spells, and supernatural forces define magic anime, offering enchanting tales of wizards, witches, and extraordinary abilities, as seen in "Magi" and "Little Witch Academia."
+;
+Space: Cosmic adventures and interstellar journeys unfold in space anime, exploring the mysteries of the universe and the challenges of space travel, as demonstrated in "Cowboy Bebop" and "Space Dandy."
+;
+Cyberpunk: Futuristic dystopias, advanced technology, and cybernetic enhancements characterize cyberpunk anime, offering a blend of sci-fi and noir aesthetics, as seen in "Ghost in the Shell" and "Psycho-Pass."
+;
+Dystopia: Bleak and oppressive societies form the backdrop of dystopian anime, exploring themes of rebellion and societal collapse, as exemplified by "Attack on Titan" and "Akira."
+;
+Parody: Satirical and humorous, parody anime playfully mock and exaggerate common tropes, genres, and cultural phenomena, providing comedic relief, as seen in "Gintama" and "One Punch Man."
+;
+Police/Crime: Crime-solving and law enforcement take center stage in police/crime anime, featuring investigations, mysteries, and thrilling pursuits, as exemplified by "Psycho-Pass" and "Baccano!"

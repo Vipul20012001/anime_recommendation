@@ -1,0 +1,25 @@
+{% extends 'layout.html' %}
+{% block content %}
+<div style="height: 40vh; align-items: center; background-image:url('./static/Image1.jpg');background-size:cover;background-repeat: no-repeat;">
+    <div class="conp" style="text-align: center; max-width: 50vh;margin-top: 10px;">
+        <h1 style="font-size: 50px;color: aliceblue; "> Which Genere do you Like ?</h1>
+        <p class="textfd"></p>
+    </div>
+</div>
+<div class="overflowingdiv" style="margin-top:3%; margin-left: 10%; margin-right: 10%;margin-bottom: 10%;">
+    {%for j in fl%}
+      <div class ="card-deck">
+        {%for i in j%}
+          <div class="card" style="width: 18rem;margin-top:20px;">
+            <div class="card-body">
+              <h5 class="card-title">{{i[0]}}</h5>
+              <p class="card-text">{{i[1]}}</p>
+              <a href="#" class="but-ani">View Anime</a>
+            </div>
+          </div>
+        {%endfor%}
+      </div>
+    {%endfor%}
+  </div>
+</div>
+{% endblock %}
